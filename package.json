@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-scripts": "1.1.4"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,7 +16,7 @@
     "build-storybook": "build-storybook -s public"
   },
   "devDependencies": {
-    "@storybook/react": "^3.4.6",
+    "@storybook/react": "^6.5.15",
     "@storybook/addon-actions": "^3.4.6",
     "@storybook/addon-links": "^3.4.6"
   }
